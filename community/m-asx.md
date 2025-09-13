@@ -1,5 +1,8 @@
 # Mariana Alves
 
+## Olá! Bem vindo ao meu perfil! 
+Sou Mariana, tenho 24 anos e sou formada em Administração, atualmente estou me aprofundando em análise de dados para melhorar minha performance na área administrativa e aprender assuntos novos, futuramente pretendo migrar de área se conseguir desenvolver meu conhecimento em TI.
+
 ## Conecte-se Comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariana-a-05a057117?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](marianalvs005@hotmail.com)
